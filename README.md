@@ -1,5 +1,5 @@
 # mac-info
-A lightweight script to display hardware and OS information on macOS.
+A lightweight script to display hardware information on macOS.
 
 ## Instructions
 download the script to your mac and run **./macInfo.sh** to get the following information on your mac:
