@@ -2,9 +2,8 @@
 A lightweight script to display hardware information on macOS.
 
 ## Instructions
-Run the following curl command in the terminal<br>
-`curl -sSL https://www.craigbarrington.com/macInfo.sh | bash`<br>
-to get the following information:
+Run the following curl command in the terminal to get the following mac information:
+<br>`curl -sSL https://www.craigbarrington.com/macInfo.sh | bash`<br>
 
 * Model Name
 * Model ID
